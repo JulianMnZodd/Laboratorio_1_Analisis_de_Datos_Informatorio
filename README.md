@@ -1,6 +1,6 @@
 ### 🧪 Abrir Notebook en Google Colab
 
-[![Abrir en Colab](https://colab.research.google.com/github/JulianMnZodd/Laboratorio_1_Analisis_de_Datos_Informatorio/blob/main/Lab1Navarro.ipynb)
+https://colab.research.google.com/github/JulianMnZodd/Laboratorio_1_Analisis_de_Datos_Informatorio/blob/main/Lab1Navarro.ipynb
 
 ---
 
